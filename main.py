@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import time
 
-keys = ' engineer chinese'
+keys = ' engineer'
 page = 0
 
 file = open('company.txt')
